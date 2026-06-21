@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A comprehensive personal expense tracker styled with a luxurious dark navy theme. Keep secure analytics of budgets, daily spends, payment methods, and live visual reports in TZS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
